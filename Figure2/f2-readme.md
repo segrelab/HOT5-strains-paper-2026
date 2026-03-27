@@ -3,7 +3,16 @@
 The phylogenetic tree for the HOT5 strains B08, C03, B10, E06, and F03 was generated in KBASE.
 
 The following genomes were included in the "Insert Genome Into SpeciesTree - v2.2.0"
-<img width="506" height="637" alt="image" src="https://github.com/user-attachments/assets/6ec32f1a-842d-46d3-b1f7-7e2601777bb7" />
+E06-rastk
+B10-rastk
+F03-rasttk
+C03-rastk
+B08-rastk
+Rhodobacter sp LPB 0142
+Pelagicola litoralis
+Phaeobacter Inhibens DSM 16374
+Dinoroseobacter shibae DFL 12 DSM 16493
+Alteromonas macleodii (v1)
 
 
 *The Hot5 genomes were annotated from their assemblies using the rasttkv1 app in KBASE ""
